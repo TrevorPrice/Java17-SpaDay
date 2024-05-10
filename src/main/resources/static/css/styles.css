@@ -1,5 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:sans-serif
+}
+
 body {
-    background-color: pink;
+    height: 100vh;
+    background: linear-gradient(#ebd5d5 65%, #ea8a8a);
 }
 
 div {
